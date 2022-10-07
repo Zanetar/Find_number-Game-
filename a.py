@@ -82,4 +82,4 @@ def menu_find(object):
 
 second_game=Find_number()
 
-menu_find(second_game) #uruchomienie aplikacji
+menu_find(second_game) #uruchomienie programu
